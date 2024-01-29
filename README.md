@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prerna</h1>
-<h3 align="center">I'm passionate about exploring the intersections of programming and technology, particularly in the realms of front-end development and IoT. Currently, I'm delving deeper into IoT skills to broaden my expertise in the field. from India</h3>
+<h3 align="center">I'm passionate about exploring the intersections of programming and technology, particularly in the realms of IoT and front-end development. Currently, I'm delving deeper into IoT skills to broaden my expertise in the field. from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
