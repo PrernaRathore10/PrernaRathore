@@ -52,12 +52,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PrernaRathore10/PrernaRathore10/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/PrernaRathore10/PrernaRathore10/output/snake.svg](https://github.com/PrernaRathore10/PrernaRathore10/blob/main/.github/workflows/snake.yml)" alt="Snake animation" />
+
 
 ###
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
-
 ###
