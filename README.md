@@ -31,7 +31,9 @@
 
 ###
 
-<img align="right" height="100" src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif"  />
+<br clear="both">
+
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif"  />
 
 ###
 
@@ -52,3 +54,10 @@
 
 <img src="https://raw.githubusercontent.com/PrernaRathore10/PrernaRathore10/output/snake.svg" alt="Snake animation" />
 
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
